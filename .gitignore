@@ -32,8 +32,3 @@ out/
 .DS_Store
 Thumbs.db
 
-# Podcast transcripts (large dataset, keep separate)
-lennys-podcast-transcripts/
-
-# Skills data
-lenny-skills/
