@@ -1,0 +1,6 @@
+PyYAML
+langchain-text-splitters
+langchain-community
+langchain-huggingface
+lancedb
+sentence-transformers
