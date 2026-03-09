@@ -14,8 +14,6 @@ build/
 env/
 venv/
 
-# LanceDB data (large binary files)
-lancedb_data/
 
 # Node.js
 node_modules/
